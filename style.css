@@ -141,7 +141,7 @@ body{
     text-transform: capitalize;
 }
 #testimonials{
-    background-color: rgb(212, 212, 212);
+    background: url(images/servicebanner.jpg);
 }
 #testimonials h2{
     background-color: rgb(47, 78, 252);
@@ -182,6 +182,9 @@ ul {
     font-size: 24px;
     font-family:'Roboto Condensed', sans-serif !important ;
     margin: 12px 0 0 19px;
+   }
+   #contact{
+    font-family:'Roboto Condensed', sans-serif !important  ;
    }
 @media only screen and (max-width: 600px) {
     #home{
